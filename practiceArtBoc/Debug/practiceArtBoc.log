@@ -1,0 +1,3 @@
+﻿  practiceArtBocView.cpp
+C:\Users\BIT\source\repos\ProjectMFC\practiceArtBoc\practiceArtBoc\practiceArtBocView.h(36): warning C4091:  'typedef ': 변수를 선언하지 않으면 'CpracticeArtBocView::MyStruct' 왼쪽은 무시됩니다.
+  practiceArtBoc.vcxproj -> C:\Users\BIT\source\repos\ProjectMFC\practiceArtBoc\Debug\practiceArtBoc.exe
